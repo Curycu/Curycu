@@ -4,8 +4,8 @@
 
 **Curycu** is ✨ _special_ ✨
 
-- Now working in mobility industry as a data analyst  
-- Worked in e-commerce industry as a data analyst  
+- Now working in e-commerce industry as a data analyst  
+- Worked in mobility industry as a data analyst  
 - Worked as a data engineer  
 - Worked as a software engineer  
 - Majored in Applied Statistics  
