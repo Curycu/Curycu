@@ -8,4 +8,4 @@
 - Worked in mobility industry as a data analyst  
 - Worked as a data engineer  
 - Worked as a software engineer  
-- Majored in Applied Statistics  
+- Majored in applied statistics  
