@@ -9,6 +9,5 @@
 - Worked as a data engineer  
 - Worked as a software engineer  
 - Majored in applied statistics  
-
-
+  
 ![Curycu's github stats](https://github-readme-stats.vercel.app/api?username=Curycu&show_icons=true&theme=radical)  
