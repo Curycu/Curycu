@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hun-cheol-ha-6356baa7/)](https://www.linkedin.com/in/heoncheol-ha-6356baa7/) [![Today Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcurycu%2Fhit-counter&count_bg=%23000000&title_bg=%23F98F05&icon=&icon_color=%23FFFFFF&title=Visitors)](https://hits.seeyoufarm.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hun-cheol-ha-6356baa7/)](https://www.linkedin.com/in/hun-cheol-ha-6356baa7/) [![Today Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcurycu%2Fhit-counter&count_bg=%23000000&title_bg=%23F98F05&icon=&icon_color=%23FFFFFF&title=Visitors)](https://hits.seeyoufarm.com) 
 
 ### Hi there 👋
 
